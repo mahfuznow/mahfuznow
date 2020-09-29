@@ -1,16 +1,13 @@
-### Hi there 👋
+# Md. Mahfuzur Rahman
+<img src="https://github.com/mahfuznow/mahfuznow/blob/master/images/qr-code-transparent.png?raw=true" width="100" >
 
-<!--
-**mahfuznow/mahfuznow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi I'm Mahfuzur Rahman from Bangladesh. I do Android App development, UI/UX and Web Design & Development. Currently i'm studying in Computer Science and Engineering at Jessore University of Science & Technology
 
-Here are some ideas to get you started:
+## Skills
+<img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/android.svg?raw=true"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Recent Works
+<img src="https://github.com/mahfuznow/mahfuznow/blob/master/images/mahfuznow-website-3.jpg?raw=true" >
+<img src="https://github.com/mahfuznow/mahfuznow/blob/master/images/recent_works.png?raw=true" >
+
