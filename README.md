@@ -1,13 +1,22 @@
-# Md. Mahfuzur Rahman
-<img src="https://github.com/mahfuznow/mahfuznow/blob/master/images/qr-code-transparent.png?raw=true" width="100" >
+<a href="https://www.linkedin.com/in/mahfuznow/"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/images/mahfuznow-logo.JPG?raw=true" width="100" > . </a>
+# Md. Mahfuzur Rahman 
+
+<a href="https://www.linkedin.com/in/mahfuznow/"><img src="https://github.com/mahfuznow/mahfuznow/blob/master/images/qr-code-transparent.png?raw=true" width="100" > </a>
+
 
 Hi I'm Mahfuzur Rahman from Bangladesh. I do Android App development, UI/UX and Web Design & Development. Currently i'm studying in Computer Science and Engineering at Jessore University of Science & Technology
 
 ## Skills
-<img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/android.svg?raw=true"
+<img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/android.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/java.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/playstore.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/sqlite.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/git.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/github.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/bitbucket.svg?raw=true">
+
+<img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/html5.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/css3.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/bootstrap.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/javascript2.svg?raw=true"><img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/jquery.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/php.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/mysql.svg?raw=true">
+
+ <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/c.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/c++.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/c-sharp.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/unity.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/python.svg?raw=true">
 
 
 ## Recent Works
 <img src="https://github.com/mahfuznow/mahfuznow/blob/master/images/mahfuznow-website-3.jpg?raw=true" >
 <img src="https://github.com/mahfuznow/mahfuznow/blob/master/images/recent_works.png?raw=true" >
 
+## Contact
+<a href="https://www.linkedin.com/in/mahfuznow/"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/linkedin.svg?raw=true"> </a> <a href="https://www.facebook.com/mahfuznow"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/facebook.svg?raw=true"> </a> 
