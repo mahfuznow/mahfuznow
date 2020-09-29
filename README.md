@@ -1,7 +1,12 @@
-<a href="https://mahfuznow.com/"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/images/mahfuznow-logo.JPG?raw=true" width="100" > . </a>
-# Md. Mahfuzur Rahman 
+<p align="center">
+<a href="https://mahfuznow.com/"><img src="https://github.com/mahfuznow/mahfuznow/blob/master/images/mahfuznow-logo.JPG?raw=true" width="100" > </a>
+</p>
+ 
+<p align="center">
+<a href="https://mahfuznow.com/"><img src="https://github.com/mahfuznow/mahfuznow/blob/master/images/qr-code-transparent.png?raw=true" width="150" > </a>
+</p>
 
-<a href="https://mahfuznow.com/"><img src="https://github.com/mahfuznow/mahfuznow/blob/master/images/qr-code-transparent.png?raw=true" width="100" > </a>
+# Md. Mahfuzur Rahman
 
 Hi I'm Mahfuzur Rahman from Bangladesh. I do Android App development, UI/UX and Web Design & Development. Currently i'm studying in Computer Science and Engineering at Jessore University of Science & Technology
 
