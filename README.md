@@ -22,9 +22,7 @@ Hi I'm Mahfuzur Rahman from Bangladesh. I do Android App development, UI/UX and 
 
 
 ## Recent Works
-<a href="https://mahfuznow.com/"><img src="https://github.com/mahfuznow/mahfuznow/blob/master/images/mahfuznow-website-3.jpg?raw=true" > </a>
-<a href="https://mahfuznow.com/"><img src="https://github.com/mahfuznow/mahfuznow/blob/master/images/recent_works.png?raw=true" > </a>
-
+<a href="https://mahfuznow.com/"><img src="https://raw.githubusercontent.com/mahfuznow/mahfuznow/master/gif/recent-work-gif.gif" > </a>
 
 ## Contact
 <a href="https://www.linkedin.com/in/mahfuznow/"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/linkedin.svg?raw=true"> </a> <a href="https://www.facebook.com/mahfuznow"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/facebook.svg?raw=true"> </a> 
