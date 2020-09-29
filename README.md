@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<a href="https://mahfuznow.com/"><img src="https://github.com/mahfuznow/mahfuznow/blob/master/images/mahfuznow-logo.JPG?raw=true" width="250" > </a>
+<a href="https://mahfuznow.com/"><img src="https://github.com/mahfuznow/mahfuznow/blob/master/images/mahfuznow-logo.JPG?raw=true" width="150" > </a>
 </p>
 
 
