@@ -28,6 +28,6 @@ Hi I'm Mahfuzur Rahman from Bangladesh. I do Android App development, UI/UX and 
 <a href="https://www.linkedin.com/in/mahfuznow/"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/linkedin.svg?raw=true"> </a> <a href="https://www.facebook.com/mahfuznow"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/facebook.svg?raw=true"> </a> 
 
 ### Visitor count
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<a href="https://github.com/mahfuznow/mahfuznow">
     <img src="https://komarev.com/ghpvc/?username=mahfuznow&color=brightgreen&label=Visitor+count&style=plastic">
 </a>
