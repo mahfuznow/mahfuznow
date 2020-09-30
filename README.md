@@ -26,3 +26,6 @@ Hi I'm Mahfuzur Rahman from Bangladesh. I do Android App development, UI/UX and 
 
 ## Contact
 <a href="https://www.linkedin.com/in/mahfuznow/"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/linkedin.svg?raw=true"> </a> <a href="https://www.facebook.com/mahfuznow"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/facebook.svg?raw=true"> </a> 
+
+### Visitor count
+[![HitCount](http://hits.dwyl.com/mahfuznow/mahfuznow.svg)](http://hits.dwyl.com/mahfuznow/mahfuznow)
