@@ -11,7 +11,7 @@
 
 # Md. Mahfuzur Rahman
 
-Hi I'm Mahfuzur Rahman from Bangladesh. I do Android App development, UI/UX and Web Design & Development. Currently i'm studying in Computer Science and Engineering at Jessore University of Science & Technology
+Hi I'm Mahfuzur Rahman from Bangladesh. I do Android App development, UI/UX and Web Design & Development.
 
 
 ## Skills
