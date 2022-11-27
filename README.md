@@ -25,21 +25,10 @@ Hi, This is Mahfuz from Bangladesh. I'm a curious person with a passion for tech
  
  <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/c-sharp.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/unity.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/arduino.svg?raw=true">
 
-
+<!--
 ## Recent Works
 <a href="https://mahfuznow.com/"><img src="https://raw.githubusercontent.com/mahfuznow/mahfuznow/master/gif/recent-work-gif.gif" > </a>
-
-## Contact
-<a href="https://www.linkedin.com/in/mahfuznow/"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/linkedin.svg?raw=true"> </a> <a href="https://www.facebook.com/mahfuznow"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/facebook.svg?raw=true"> </a> 
-
-## Visitor count
-<a href="https://github.com/mahfuznow/mahfuznow">
-    <img src="https://komarev.com/ghpvc/?username=mahfuznow&color=brightgreen&label=Visitor+count&style=plastic">
-</a>
-<br></br>
-
-## GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahfuznow&theme=soft-green&hide_border=true)](https://git.io/streak-stats)
+ -->
 
 ## Portfolio
 <picture>
@@ -53,6 +42,19 @@ Hi, This is Mahfuz from Bangladesh. I'm a curious person with a passion for tech
 />
 <img src="./gif/website_video_dark.gif" />
 </picture>
+
+## Contact
+<a href="https://www.linkedin.com/in/mahfuznow/"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/linkedin.svg?raw=true"> </a> <a href="https://www.facebook.com/mahfuznow"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/facebook.svg?raw=true"> </a> 
+
+## Visitor count
+<a href="https://github.com/mahfuznow/mahfuznow">
+    <img src="https://komarev.com/ghpvc/?username=mahfuznow&color=brightgreen&label=Visitor+count&style=plastic">
+</a>
+<br></br>
+
+## GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahfuznow&theme=soft-green&hide_border=true)](https://git.io/streak-stats)
+
 
 <!--
 ## GitHub Stats
