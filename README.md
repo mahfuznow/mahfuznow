@@ -54,7 +54,9 @@ Hi, This is Mahfuz from Bangladesh. I'm a curious person with a passion for tech
 </picture>
 
 ## Leetcode stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/mahfuznow?ext=heatmap)
+<a href="https://leetcode.com/mahfuznow">
+    <img src="https://leetcard.jacoblin.cool/mahfuznow?ext=heatmap">
+</a>
 
 <!--
 ## GitHub Stats
