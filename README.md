@@ -41,6 +41,19 @@ Hi, This is Mahfuz from Bangladesh. I'm a curious person with a passion for tech
 ## GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahfuznow&theme=soft-green&hide_border=true)](https://git.io/streak-stats)
 
+## Portfolio
+<picture>
+<source 
+  srcset="./gif/website_video_dark.gif"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="./gif/website_video_light.gif"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="./gif/website_video_dark.gif" />
+</picture>
+
 <!--
 ## GitHub Stats
 <picture>
