@@ -40,7 +40,7 @@ Hi, This is Mahfuz from Bangladesh. I'm a curious person with a passion for tech
   srcset="./gif/website_video_light.gif"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="./gif/website_video_dark.gif" />
+<a href="https://mahfuznow.com/"><img src="./gif/website_video_dark.gif"> </a>
 </picture>
 
 ## Contact
