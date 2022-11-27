@@ -53,6 +53,9 @@ Hi, This is Mahfuz from Bangladesh. I'm a curious person with a passion for tech
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mahfuznow&hide_border=true">
 </picture>
 
+## Leetcode stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/mahfuznow?ext=heatmap)
+
 <!--
 ## GitHub Stats
 <picture>
