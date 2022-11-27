@@ -31,17 +31,12 @@ Hi, This is Mahfuz from Bangladesh. I'm a curious person with a passion for tech
  -->
 
 ## Portfolio
-<picture>
-<source 
-  srcset="./gif/website_video_dark.gif"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="./gif/website_video_light.gif"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<a href="https://mahfuznow.com/"><img src="./gif/website_video_dark.gif"> </a>
-</picture>
+<a href="https://mahfuznow.com/">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./gif/website_video_dark.gif">
+        <img src="./gif/website_video_light.gif">
+    </picture>
+</a>
 
 ## Contact
 <a href="https://www.linkedin.com/in/mahfuznow/"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/linkedin.svg?raw=true"> </a> <a href="https://www.facebook.com/mahfuznow"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/facebook.svg?raw=true"> </a> 
@@ -53,8 +48,10 @@ Hi, This is Mahfuz from Bangladesh. I'm a curious person with a passion for tech
 <br></br>
 
 ## GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahfuznow&theme=soft-green&hide_border=true)](https://git.io/streak-stats)
-
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=mahfuznow&theme=soft-green&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mahfuznow&hide_border=true">
+</picture>
 
 <!--
 ## GitHub Stats
