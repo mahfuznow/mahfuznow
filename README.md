@@ -11,7 +11,9 @@
 
 # Md. Mahfuzur Rahman
 
-Hi, This is Mahfuz from Bangladesh. I'm a curious person with a passion for technology. I’ve 4+ years of experience in developing Android Applications, Robotics & IoT, Games, Web Applications, Automation, 3D design, 3D printing, and R&D.
+Hi I'm Md. Mahfuzur Rahman from Bangladesh, Working as a Software Engineer at Brain Station 23 Ltd. Also pursuing M.Sc. in Computer Science and Engineering from Bangladesh University of Engineering & Technology (BUET), Dhaka, Bangladesh. I've completed my B.Sc. in Computer Science and Engineering from Jashore University of Science & Technology (JUST), Jashore, Bangladesh.
+
+I specialize in developing native Android applications using Kotlin/Java, XML/Compose, as well as cross-platform applications using Flutter. With a strong understanding of software engineering best practices and Material UI design, I am confident in my ability to produce clean, efficient, and maintainable code. I have a proven track record of collaborating effectively with teams to deliver successful Android and Flutter projects. Other than that I've keen interest in other domains including but not limited to Robotics, IoT, UI/UX Design, 3D design, 3D printing, Web Design & Development, ML/AI and Game Development.
 
 
 ## Skills
