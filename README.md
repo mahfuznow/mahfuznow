@@ -15,6 +15,7 @@ Hi I'm Md. Mahfuzur Rahman from Bangladesh, Working as a Software Engineer at Br
 
 I specialize in developing native Android applications using Kotlin/Java, XML/Compose, as well as cross-platform applications using Flutter. With a strong understanding of software engineering best practices and Material UI design, I am confident in my ability to produce clean, efficient, and maintainable code. I have a proven track record of collaborating effectively with teams to deliver successful Android and Flutter projects. Other than that I've keen interest in other domains including but not limited to Robotics, IoT, UI/UX Design, 3D design, 3D printing, Web Design & Development, ML/AI and Game Development.
 
+<!---
 
 ## Skills
 <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/android.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/kotlin.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/java.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/flutter.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/firebase.svg?raw=true">
@@ -26,7 +27,8 @@ I specialize in developing native Android applications using Kotlin/Java, XML/Co
 <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/html5.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/css3.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/bootstrap.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/javascript2.svg?raw=true"><img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/jquery.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/php.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/mysql.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/postman.svg?raw=true">
  
  <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/c-sharp.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/unity.svg?raw=true"> <img src="https://github.com/mahfuznow/mahfuznow/blob/master/badges/arduino.svg?raw=true">
-
+ -->
+ 
 <!--
 ## Recent Works
 <a href="https://mahfuznow.com/"><img src="https://raw.githubusercontent.com/mahfuznow/mahfuznow/master/gif/recent-work-gif.gif" > </a>
